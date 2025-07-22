@@ -1,1 +1,2 @@
-# MINI-SITE
+# mini-ecommerce-iphone
+MNI SITE
